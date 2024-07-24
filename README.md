@@ -41,7 +41,7 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/73a59e1f-fb7e-48b2-a9de-e6a30da999e4" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/>
   
 
-### Frameworks and Libraries (Python3):
+### Frameworks and Libraries:
 
 | React | Tailwind | Node.JS | Bootstrap | HTML 5 | CSS 3 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
