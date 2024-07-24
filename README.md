@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Yash Agrawal</h1>
 <h3 align="center">A Passionate Software Developer Seeking New Opportunities 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif”>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagrawal13072000&label=Profile%20views&color=0e75b6&style=flat" alt="yashagrawal13072000" /> </p>
 
