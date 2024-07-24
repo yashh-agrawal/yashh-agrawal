@@ -1,5 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Yash Agrawal</h1>
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Yash Agrawal 😎 </h1>
+
+
+
+
 <h3 align="center">A Passionate Software Developer Seeking New Opportunities 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
@@ -9,13 +13,14 @@
 
 - 🌱 I’m currently learning **Socket.io, Prisma and Tailwind**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/yash-agrawal1307/](https://www.linkedin.com/in/yash-agrawal1307/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/yash-agrawal1307/)
 
 - 💬 Ask me about **React and Next.js**
 
-- 📫 How to reach me **yashagrawal13072000@gmail.com**
+- 📫 How to reach me **[yashagrawal13072000@gmail.com](mailto:yashagrawal13072000@gmail.com)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T76E4_T4SGXB9sYjO91_MIaOYR1Q9wYC/view?usp=sharing](https://drive.google.com/file/d/1T76E4_T4SGXB9sYjO91_MIaOYR1Q9wYC/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1T76E4_T4SGXB9sYjO91_MIaOYR1Q9wYC/view?usp=sharing)
+
 
 - ⚡ Fun fact **When I'm not coding, you might find me hitting the gym or diving into my favorite music playlists. Staying fit and enjoying tunes keeps me energized and creative!**
 
