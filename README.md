@@ -9,17 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagrawal13072000&label=Profile%20views&color=0e75b6&style=flat" alt="yashagrawal13072000" /> </p>
 
-- 🔭 I’m currently working on **Discord-Clone**
+- 🔭 I’m currently working on **Finance SaaS Platform**
 
 - 🌱 I’m currently learning **Socket.io, Prisma and Tailwind**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/yash-agrawal1307/)
 
-- 💬 Ask me about **React and Next.js**
+- 💬 Ask me about **ReactJS and Next.js**
 
-- 📫 How to reach me **[yashagrawal13072000@gmail.com](mailto:yashagrawal13072000@gmail.com)**
+- 📫 How to reach me **[email](mailto:yashagrawal13072000@gmail.com)**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1T76E4_T4SGXB9sYjO91_MIaOYR1Q9wYC/view?usp=sharing)
+- 📄 Know about my experiences [here](https://yashagrawal.vercel.app/)
 
 
 - ⚡ Fun fact **When I'm not coding, you might find me hitting the gym or diving into my favorite music playlists. Staying fit and enjoying tunes keeps me energized and creative!**
