@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ReactJS and Next.js**
 
-- 📫 How to reach me **[email](mailto:yashagrawal13072000@gmail.com)**
+- 📫 How to reach me **[email](mailto:yash1307agrawal@gmail.com)**
 
 - 📄 Know about my experiences [here](https://yashagrawal.vercel.app/)
 
