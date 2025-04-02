@@ -55,11 +55,11 @@
 |<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" title="github" alt="github" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="ORACLE" alt="ORACLE" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" title="Json" alt="Json" width="55" height="55"/>| <img src="https://media.licdn.com/dms/image/D4E0BAQGvrlykNx9Xaw/company-logo_200_200/0/1684762073756/neondatabase_logo?e=2147483647&v=beta&t=nQe_W4vqJCk3X9dAHrsbkJWLJe2AurflTYwjd9WyrOo" title="NeonDB" alt="NeonDB" width="55" height="55"/>| <img src="https://media.licdn.com/dms/image/v2/D560BAQHpL09DCrCRGA/company-logo_200_200/company-logo_200_200/0/1698702387793/clerkinc_logo?e=2147483647&v=beta&t=EdfHadbRHHKvEQJvfXKtzal3pUX4GsmrEYI50A9N2vU" title="Clerk" alt="Clerk" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="55" height="55"/>|
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashagrawal13072000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yashagrawal13072000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashh-agrawal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yashagrawal13072000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashagrawal13072000&show_icons=true&locale=en&theme=tokyonight" alt="yashagrawal13072000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashh-agrawal&show_icons=true&locale=en&theme=tokyonight" alt="yashagrawal13072000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashagrawal13072000&&theme=tokyonight" alt="yashagrawal13072000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashagrawal13072000&&theme=tokyonight" alt="yashh-agrawal" /></p>
 
 ## ✍️ Random Dev Quote
 
